@@ -5,3 +5,4 @@ Unlock Webflow with Custom Code! This repository is the store for all of my cust
 ## Index
 
 Sticky CMS Tabs with GSAP Scroll Trigger
+Vertical Scroll Snapping Carousel with Swiper.js

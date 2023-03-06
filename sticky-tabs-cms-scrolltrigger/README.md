@@ -2,7 +2,7 @@
 
 ## Requirements
 
-### Inside the <head> tag
+### Inside the `<head>` tag
 
 ```html
 <script

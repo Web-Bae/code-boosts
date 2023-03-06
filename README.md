@@ -4,5 +4,5 @@ Unlock Webflow with Custom Code! This repository is the store for all of my cust
 
 ## Index
 
-Sticky CMS Tabs with GSAP Scroll Trigger
-Vertical Scroll Snapping Carousel with Swiper.js
+1. Sticky CMS Tabs with GSAP Scroll Trigger
+2. Vertical Scroll Snapping Carousel with Swiper.js
